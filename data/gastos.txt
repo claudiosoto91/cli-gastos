@@ -1,1 +1,11 @@
-Generando .txt de gastos
+
+ Gasto Número 1 = 150 
+ Gastos Actualizados: 150
+ Gasto Número 2 = 200 
+ Gastos Actualizados: 350
+ Gasto Número 3 = 400 
+ Gastos Actualizados: 750
+ Gasto Número 4 = 660 
+ Gastos Actualizados: 1410
+ Gasto Número 5 = 100 
+ Gastos Actualizados: 1510
